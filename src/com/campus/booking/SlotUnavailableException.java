@@ -1,0 +1,7 @@
+package com.campus.booking;
+
+public class SlotUnavailableException extends Exception {
+    public SlotUnavailableException(String message) {
+        super(message);
+    }
+}
