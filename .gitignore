@@ -1,0 +1,17 @@
+# Compiled byte code and output directory
+bin/
+*.class
+
+# macOS system metadata
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
+
+# IDE configuration directories
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
